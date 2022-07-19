@@ -6,7 +6,7 @@ import GoalList from "./Components/GoalList";
 function App() {
   const [goalList, setGoalList] = useState([
     {
-      label: "finish",
+      label: "finish now",
     },
     {
       label: "section2",
