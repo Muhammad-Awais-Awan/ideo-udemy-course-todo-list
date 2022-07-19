@@ -16,7 +16,11 @@
   width: 40%;
   height: 10%;
 }
-.goal-header_label {
+.goal-header__label {
+  color: black;
+}
+.goal-header__label.invalid {
+  color: crimson;
 }
 .goal-header__input {
   width: 95%;
